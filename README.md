@@ -1,3 +1,3 @@
 # SinglePageApp
-My info
-helooo
+My information
+this is about my personal information.
